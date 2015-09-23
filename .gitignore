@@ -1,0 +1,5 @@
+*.key
+vendor/
+*.lock
+.DS_Store
+*.mp4
