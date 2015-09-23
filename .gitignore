@@ -1,5 +1,6 @@
 *.key
 vendor/
+results/
 *.lock
 .DS_Store
 *.mp4
