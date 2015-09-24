@@ -7,3 +7,5 @@ Resources for course PHP 101 at Walailak University
 * Learn PHP by KATA/DOJO
 * Working with database via PDO (PHP Data Object)
 * Develope web application with PHP
+* Source control witg GIT
+* Automated Acceptance Testing with Robot framework
