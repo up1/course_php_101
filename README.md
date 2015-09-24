@@ -1,4 +1,4 @@
-# course_php_101
+# Course PHP 101
 Resources for course PHP 101 at Walailak University
 
 * Software requirement => php, mysql, composer
