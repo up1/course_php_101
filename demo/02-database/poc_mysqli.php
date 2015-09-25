@@ -2,7 +2,7 @@
 $host = "localhost";
 $username = "root";
 $password = "mypassword";
-$database_name = "sample";
+$database_name = "shop";
 
 $connection = mysqli_connect($host, $username, $password, $database_name) 
                                                 or die ('Could not connect: '. mysqli_error());
