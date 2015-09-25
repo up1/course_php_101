@@ -1,4 +1,4 @@
-# course_php_101
+# Course PHP 101
 Resources for course PHP 101 at Walailak University
 
 * Software requirement => php, mysql, composer
@@ -7,3 +7,5 @@ Resources for course PHP 101 at Walailak University
 * Learn PHP by KATA/DOJO
 * Working with database via PDO (PHP Data Object)
 * Develope web application with PHP
+* Source control with GIT
+* Automated Acceptance Testing with Robot framework
