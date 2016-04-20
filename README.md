@@ -11,6 +11,6 @@ Resources for course PHP 101 at
 * Learn PHP by test (PHPUnit)
 * Learn PHP by KATA/DOJO
 * Working with database via PDO (PHP Data Object)
-* Develope web application with PHP
+* Develop web application with PHP
 * Source control with GIT
 * Automated Acceptance Testing with Robot framework
