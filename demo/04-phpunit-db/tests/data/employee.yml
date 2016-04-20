@@ -1,0 +1,9 @@
+employee:
+    -
+        id: 1
+        firstname: "somkiat"
+        lastname: "pui"
+    -
+        id: 2
+        firstname: "xxxx"
+        lastname: "yyyy"
