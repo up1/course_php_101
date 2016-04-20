@@ -1,5 +1,9 @@
 # Course PHP 101
-Resources for course PHP 101 at Walailak University
+Resources for course PHP 101 at 
+* Walailak University
+* Burapha University
+
+# Topics
 
 * Software requirement => php, mysql, composer
 * Programming 101
